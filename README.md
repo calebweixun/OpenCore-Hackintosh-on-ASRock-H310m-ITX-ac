@@ -8,12 +8,12 @@
 on OpenCore 0.6.5
 
 # Hardware 硬體配置
-CPU : i5-9600
-RAM : Crucial DDR4-2666 8Gx2 
-SSD : WD SN750 512G
-GPU : ASUS RX560 4G
-PSU : SilverStone ST30SF 300W
-FAN : NOCTUA NH-L9i
+CPU : i5-9600  
+RAM : Crucial DDR4-2666 8Gx2  
+SSD : WD SN750 512G  
+GPU : ASUS RX560 4G  
+PSU : SilverStone ST30SF 300W  
+FAN : NOCTUA NH-L9i  
 
 # Operator Status 操作狀態
 1. 基本操作一切正常
